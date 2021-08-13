@@ -2,73 +2,73 @@
   "products": [
     {
       "id": 1,
-      "name": "Pork Salted Bellies",
-      "price": 442,
-      "quantity": 16,
-      "thumbnail": "http://dummyimage.com/213x100.png/dddddd/000000"
+      "name": "16-inch MacBook Pro - Space Gray",
+      "price": 2799,
+      "quantity": 2,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-space-select-201911?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1572825197207"
     },
     {
       "id": 2,
-      "name": "Grapes - Black",
-      "price": 893,
-      "quantity": 22,
-      "thumbnail": "http://dummyimage.com/151x100.png/ff4444/ffffff"
+      "name": "Apple TV 4K 64GB",
+      "price": 199,
+      "quantity": 1,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-4k-hero-select-202104_FMT_WHH?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1617137945000"
     },
     {
       "id": 3,
-      "name": "Nantucket - 518ml",
-      "price": 693,
-      "quantity": 41,
-      "thumbnail": "http://dummyimage.com/125x100.png/dddddd/000000"
+      "name": "iPhone 12 128GB Black",
+      "price": 879,
+      "quantity": 2,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1604343702000"
     },
     {
       "id": 4,
-      "name": "Onions - White",
-      "price": 472,
-      "quantity": 67,
-      "thumbnail": "http://dummyimage.com/117x100.png/cc0000/ffffff"
+      "name": "Apple Watch Series 6 44mm ",
+      "price": 529,
+      "quantity": 4,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJ5E3_VW_34FR+watch-44-alum-silver-cell-6s_VW_34FR_WF_CO+watch-face-44-usa6s_VW_34FR_WF_CO?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1623798038000%2C1599519883000%2C1623387436000"
     },
     {
       "id": 5,
-      "name": "Lamb - Whole, Fresh",
-      "price": 157,
-      "quantity": 83,
-      "thumbnail": "http://dummyimage.com/160x100.png/dddddd/000000"
+      "name": "12.9-inch iPad Pro Wi-Fi 512GB",
+      "price": 1599,
+      "quantity": 3,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-cell-spacegray-202104?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1617126613000"
     },
     {
       "id": 6,
-      "name": "Carrots - Purple, Organic",
-      "price": 816,
-      "quantity": 37,
-      "thumbnail": "http://dummyimage.com/241x100.png/5fa2dd/ffffff"
+      "name": "Apple Pencil",
+      "price": 129,
+      "quantity": 1,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU8F2?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1540596407165"
     },
     {
       "id": 7,
-      "name": "Bag - Regular Kraft 20 Lb",
-      "price": 157,
-      "quantity": 60,
-      "thumbnail": "http://dummyimage.com/156x100.png/cc0000/ffffff"
+      "name": "Magic Keyboard",
+      "price": 349,
+      "quantity": 2,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJQL3LL?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1617919104000"
     },
     {
       "id": 8,
-      "name": "Flour - Bran, Red",
-      "price": 970,
-      "quantity": 40,
-      "thumbnail": "http://dummyimage.com/157x100.png/5fa2dd/ffffff"
+      "name": "USB-C to USB Adapter",
+      "price": 19,
+      "quantity": 2,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJ1M2?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1591650473000"
     },
     {
       "id": 9,
-      "name": "Bread - Bistro Sour",
-      "price": 112,
-      "quantity": 77,
-      "thumbnail": "http://dummyimage.com/147x100.png/dddddd/000000"
+      "name": "44mm Capri Blue Sport Band",
+      "price": 49,
+      "quantity": 2,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJK53?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1617407491000"
     },
     {
       "id": 10,
-      "name": "Soup - Campbells Bean Medley",
-      "price": 353,
-      "quantity": 40,
-      "thumbnail": "http://dummyimage.com/203x100.png/ff4444/ffffff"
+      "name": "AirPods Pro",
+      "price": 249,
+      "quantity": 1,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1591634795000"
     }
   ]
 }
