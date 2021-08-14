@@ -2,73 +2,73 @@
   "products": [
     {
       "id": 1,
-      "name": "16-inch MacBook Pro - Space Gray",
-      "price": 2799,
-      "quantity": 2,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-space-select-201911?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1572825197207"
+      "name": "Nike Air Force 1",
+      "price": 100,
+      "color": 1,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-shoe-WrLlWX.png"
     },
     {
       "id": 2,
-      "name": "Apple TV 4K 64GB",
-      "price": 199,
-      "quantity": 1,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-4k-hero-select-202104_FMT_WHH?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1617137945000"
+      "name": "Nike Air Force 1 GORE-TEX",
+      "price": 200,
+      "color": 1,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/adc7cecb-c02a-42c1-b2de-67ddc141295d/air-force-1-gore-tex-shoes-xkl3Ps.png"
     },
     {
       "id": 3,
-      "name": "iPhone 12 128GB Black",
-      "price": 879,
-      "quantity": 2,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1604343702000"
+      "name": "Nike Waffle One Crater",
+      "price": 150,
+      "color": 2,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3c827d66-eab6-430a-af29-bdaa4c3dc614/waffle-one-crater-shoes-FFw97w.png"
     },
     {
       "id": 4,
-      "name": "Apple Watch Series 6 44mm ",
-      "price": 529,
-      "quantity": 4,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJ5E3_VW_34FR+watch-44-alum-silver-cell-6s_VW_34FR_WF_CO+watch-face-44-usa6s_VW_34FR_WF_CO?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1623798038000%2C1599519883000%2C1623387436000"
+      "name": "Nike Ari Max 90 Premium",
+      "price": 380,
+      "color": 2,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7ea88a00-0694-4c72-a052-33f5aa2a90b9/air-max-90-shoe-Rr3hDm.png"
     },
     {
       "id": 5,
-      "name": "12.9-inch iPad Pro Wi-Fi 512GB",
-      "price": 1599,
-      "quantity": 3,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-cell-spacegray-202104?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1617126613000"
+      "name": "Nike Air Max 90",
+      "price": 160,
+      "color": 2,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7d8e1385-1bd2-4ee5-ac53-2eec0b9c1541/air-max-90-shoes-hGrzDR.png"
     },
     {
       "id": 6,
-      "name": "Apple Pencil",
+      "name": "Nike ACG Air Deschutz",
       "price": 129,
-      "quantity": 1,
+      "color": 3,
       "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU8F2?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1540596407165"
     },
     {
       "id": 7,
-      "name": "Magic Keyboard",
-      "price": 349,
-      "quantity": 2,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJQL3LL?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1617919104000"
+      "name": "Nike Air Max 97 SE",
+      "price": 250,
+      "color": 2,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a02b46e1-e2fd-4fd5-b326-01147d09c3a3/air-max-97-se-shoes-wJcltf.png"
     },
     {
       "id": 8,
-      "name": "USB-C to USB Adapter",
-      "price": 19,
-      "quantity": 2,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJ1M2?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1591650473000"
+      "name": "Nike Air Max 97",
+      "price": 230,
+      "color": 1,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/640c190e-3a03-4d91-bcd2-176d6dec1d63/air-max-97-shoes-bfqJQG.png"
     },
     {
       "id": 9,
-      "name": "44mm Capri Blue Sport Band",
-      "price": 49,
-      "quantity": 2,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJK53?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1617407491000"
+      "name": "Nike ACG Air Nasu 2",
+      "price": 150,
+      "color": 3,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2da544df-2a81-47e9-a47f-9b64103ec2ac/acg-air-nasu-2-shoes-3cFtpQ.png"
     },
     {
       "id": 10,
-      "name": "AirPods Pro",
-      "price": 249,
-      "quantity": 1,
-      "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=800&hei=800&fmt=jpeg&qlt=80&fit=constrain&.v=1591634795000"
+      "name": "Nike ACG Mountain Fly Low",
+      "price": 260,
+      "color": 2,
+      "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/927ca357-91c7-47df-90fe-9214955438ac/acg-mountain-fly-low-shoes-msGNPz.png"
     }
   ]
 }
