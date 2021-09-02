@@ -348,6 +348,139 @@
         "EU 44.5"
       ],
       "type": "Shoes"
+    },
+    {
+      "id": 11,
+      "name": "Nike Victori One",
+      "price": 60,
+      "color": 1,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b8339335-3789-4818-b74c-ab3042ff1545/victori-one-printed-slide-2ZsMWk.png",
+      "detailimg": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b8339335-3789-4818-b74c-ab3042ff1545/victori-one-printed-slide-2ZsMWk.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/8d9adbb5-52c0-4bed-b9ca-302df87fddae/victori-one-printed-slide-2ZsMWk.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4677abe9-be35-4f32-94df-d1aded967fee/victori-one-printed-slide-2ZsMWk.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/5f8a42ea-72f2-4fd9-8e08-d04bccd64b7c/victori-one-printed-slide-2ZsMWk.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/faec800d-c1af-4e21-b0c6-d534c093564a/victori-one-printed-slide-2ZsMWk.png"
+      ],
+      "colorimg": [
+        "https://static.nike.com/a/images/t_PDP_144_v1/f_auto/ec981d0b-98ce-4b6f-9fc3-747b0d4c69a8/acg-air-deschutz-sandals-F6s3mC.png"
+      ],
+      "size": [
+        "EU 38.5",
+        "EU 39",
+        "EU 39.5",
+        "EU 40",
+        "EU 40.5",
+        "EU 41",
+        "EU 41.5",
+        "EU 42",
+        "EU 42.5",
+        "EU 43",
+        "EU 43.5",
+        "EU 44",
+        "EU 44.5"
+      ],
+      "type": "Sandals"
+    },
+    {
+      "id": 12,
+      "name": "Nike Offcourt Duo",
+      "price": 70,
+      "color": 1,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a6190ae6-ab7c-4b35-9cdd-c14b5189696a/offcourt-duo-slides-n8BL2c.png",
+      "detailimg": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a6190ae6-ab7c-4b35-9cdd-c14b5189696a/offcourt-duo-slides-n8BL2c.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4220d88c-543c-4044-89b7-64993ff714df/offcourt-duo-slides-n8BL2c.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/80a56c01-49cf-4b5c-b827-10a67fb70f4d/offcourt-duo-slides-n8BL2c.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f90cf80a-a979-4761-8056-7c9f5d3b1a24/offcourt-duo-slides-n8BL2c.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/d7da6c68-a9bc-467d-af24-8c3077ffd132/offcourt-duo-slides-n8BL2c.png"
+      ],
+      "colorimg": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a6190ae6-ab7c-4b35-9cdd-c14b5189696a/offcourt-duo-slides-n8BL2c.png"
+      ],
+      "size": [
+        "EU 38.5",
+        "EU 39",
+        "EU 39.5",
+        "EU 40",
+        "EU 40.5",
+        "EU 41",
+        "EU 41.5",
+        "EU 42",
+        "EU 42.5",
+        "EU 43",
+        "EU 43.5",
+        "EU 44",
+        "EU 44.5"
+      ],
+      "type": "Sandals"
+    },
+    {
+      "id": 13,
+      "name": "Nike x Sig Zane ACG Air Deschutz+",
+      "price": 120,
+      "color": 1,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d68fe62b-f4ab-48f6-95fc-12bcfe06e170/sig-zane-acg-air-deschutz-sandal-wqqD3m.png",
+      "detailimg": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d68fe62b-f4ab-48f6-95fc-12bcfe06e170/sig-zane-acg-air-deschutz-sandal-wqqD3m.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b4122c66-9e10-4bf0-96b6-41b8ba27909f/sig-zane-acg-air-deschutz-sandal-wqqD3m.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b89471b6-ca0c-4619-a7e6-ae7ac1811dd4/sig-zane-acg-air-deschutz-sandal-wqqD3m.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/5eb0f1c4-5d03-41aa-aa02-47b897b6f256/sig-zane-acg-air-deschutz-sandal-wqqD3m.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/c369f697-fc58-4f23-bfdb-eb4fb29c1311/sig-zane-acg-air-deschutz-sandal-wqqD3m.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/95f4e2f8-f2f6-476e-8fd3-0bfecdfa031f/sig-zane-acg-air-deschutz-sandal-wqqD3m.png"
+      ],
+      "colorimg": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d68fe62b-f4ab-48f6-95fc-12bcfe06e170/sig-zane-acg-air-deschutz-sandal-wqqD3m.png"
+      ],
+      "size": [
+        "EU 38.5",
+        "EU 39",
+        "EU 39.5",
+        "EU 40",
+        "EU 40.5",
+        "EU 41",
+        "EU 41.5",
+        "EU 42",
+        "EU 42.5",
+        "EU 43",
+        "EU 43.5",
+        "EU 44",
+        "EU 44.5"
+      ],
+      "type": "Sandals"
+    },
+    {
+      "id": 14,
+      "name": "Nike Victori One",
+      "price": 60,
+      "color": 1,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fd91a697-085d-495e-a461-cd2b62876e83/victori-one-slide-JvkKn3.png",
+      "detailimg": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fd91a697-085d-495e-a461-cd2b62876e83/victori-one-slide-JvkKn3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/8159191f-17e2-4521-9216-03411f84031a/victori-one-slide-JvkKn3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/7fc38eed-9aab-4d8b-8e12-601bddeb218b/victori-one-slide-JvkKn3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/3da9fdd6-4bb5-47be-b57e-670374958504/victori-one-slide-JvkKn3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/25a3bef5-2e9d-4368-bd40-aaa31380fd33/victori-one-slide-JvkKn3.png"
+      ],
+      "colorimg": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fd91a697-085d-495e-a461-cd2b62876e83/victori-one-slide-JvkKn3.png"
+      ],
+      "size": [
+        "EU 38.5",
+        "EU 39",
+        "EU 39.5",
+        "EU 40",
+        "EU 40.5",
+        "EU 41",
+        "EU 41.5",
+        "EU 42",
+        "EU 42.5",
+        "EU 43",
+        "EU 43.5",
+        "EU 44",
+        "EU 44.5"
+      ],
+      "type": "Sandals"
     }
   ]
 }
